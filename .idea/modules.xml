@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ElectroDJ_Free.iml" filepath="$PROJECT_DIR$/ElectroDJ_Free.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Jukebox/Jukebox.iml" filepath="$PROJECT_DIR$/../Jukebox/Jukebox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Jukebox/google-play-services_lib/google-play-services_lib.iml" filepath="$PROJECT_DIR$/../Jukebox/google-play-services_lib/google-play-services_lib.iml" />
+    </modules>
+  </component>
+</project>
+
