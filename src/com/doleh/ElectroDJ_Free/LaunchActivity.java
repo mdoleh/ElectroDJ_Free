@@ -42,7 +42,7 @@ public class LaunchActivity extends Activity
         i.putExtra(Config.APP_PNAME_KEY, getPackageName());
         i.putExtra(Config.APP_TITLE_KEY, getString(R.string.app_name));
         i.putExtra(Config.APP_PAID_KEY, false);
-        i.putExtra(Config.MAX_MESSAGE_COUNT_KEY, 3);
+        i.putExtra(Config.MAX_MESSAGE_COUNT_KEY, 5);
         i.putExtra(Config.AUTO_PLAY_KEY, true);
         return i;
     }
