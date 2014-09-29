@@ -4,8 +4,8 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
-import com.doleh.Jukebox.Config;
 import com.doleh.Jukebox.MainActivity;
+import com.doleh.Jukebox.Static.Config;
 
 public class LaunchActivity extends Activity
 {
